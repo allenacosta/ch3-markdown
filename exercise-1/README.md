@@ -5,3 +5,7 @@ As described in the [git-basics chapter](https://info201.github.io/git-basics.ht
 Then, in the space below, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote. When you push your changes back up to GitHub, you will see the rendered markdown file.
 
 See `complete` branch for an example.
+```
+"You miss 100% of the shots you don't take"
+
+https://www.forbes.com/sites/actiontrumpseverything/2014/01/12/you-miss-100-of-the-shots-you-dont-take-so-start-shooting-at-your-goal/#562e72fd6a40
